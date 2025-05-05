@@ -1,0 +1,14 @@
+/plopbord test.data.gz
+  Content-Encoding: gzip
+  Content-Type: application/octet-stream
+
+/plopbord test.framework.js.gz
+  Content-Encoding: gzip
+  Content-Type: application/javascript
+
+/plopbord test.loader.js
+  Content-Type: application/javascript
+
+/plopbord test.wasm.gz
+  Content-Encoding: gzip
+  Content-Type: application/wasm
